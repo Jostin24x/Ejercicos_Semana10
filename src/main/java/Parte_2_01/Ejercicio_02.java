@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.util.Scanner;
 /**
  *
- * @author Josthen Gabriel
+ * @author User
  */
 public class Ejercicio_02 {
 

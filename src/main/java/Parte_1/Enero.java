@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 /**
  *
- * @author Josthen Gabriel
+ * @author User
  */
 public final class Enero {
 

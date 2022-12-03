@@ -1,7 +1,7 @@
 package Parte_2_01;
 /**
  *
- * @author Josthen Gabriel 
+ * @author User 
  */
 public class ListaEnlazada {
     protected Nodo primero;

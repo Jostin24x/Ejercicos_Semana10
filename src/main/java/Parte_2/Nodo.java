@@ -2,7 +2,7 @@ package Parte_2;
 
 /**
  *
- * @author ACER
+ * @author User
  */
 public class Nodo {
 
